@@ -1,4 +1,7 @@
 # hello-world
-my first repository
-hello its me mario;
-this is my first commit
+
+public class HelloWorld{
+  public static void main (String [] args){
+    System.out.println("Hello, world!");
+    }
+}    
